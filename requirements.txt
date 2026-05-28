@@ -1,1 +1,13 @@
-
+openai
+langchain
+faiss-cpu
+chromadb
+pandas
+numpy
+tqdm
+python-dotenv
+transformers
+datasets
+fastapi
+uvicorn
+streamlit
